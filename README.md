@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iiimen-hub/stroke-prediction-ml/blob/main/stroke_prediction.ipynb)
 
-Projet réalisé dans le cadre du cours *Atelier Systèmes Intelligents 2* (Master DSIR 1, ISET Sfax, 2025-2026), en binôme avec Emna Abbes.
+Projet réalisé dans le cadre du cours *Atelier Systèmes Intelligents 2* (Master DSIR 1, ISET Sfax, 2025-2026).
 
 L'objectif est de comparer plusieurs modèles de classification pour prédire le risque d'accident vasculaire cérébral (AVC) à partir de données médicales et socio-démographiques.
 
@@ -66,4 +66,4 @@ jupyter notebook stroke_prediction.ipynb
 
 ## Auteures
 
-Imen Fatnassi et Emna Abbes
+Imen Fatnassi 
